@@ -1,0 +1,23 @@
+{
+  "name": "threejs-startupisteam",
+  "version": "1.0.0",
+  "description": "A Threejs crash course",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+  },
+  "keywords": [
+    "threejs",
+    "threejs startupiateam"
+  ],
+  "author": "yoni",
+  "license": "ISC",
+  "bugs": {
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "three": "^0.142.0"
+  }
+}
