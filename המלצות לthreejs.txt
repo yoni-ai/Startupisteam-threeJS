@@ -1,6 +1,9 @@
 משחקים:
 http://hexgl.bkcore.com/play/
-https://codepen.io/Yakudoo/pen/yNjRRL
+https://showroom3d.app/
+https://russo-creation.github.io/my.portfolio/
+https://www.invidiaeyewear.com/3d_fitting_room.php?s=1&f=4&t=2&lt=1&lc=1&lo=1&id=38
+http://schoolio.world/
 
 מדריך ליצירת משחק בthreejs בעברית 
 https://codcodile.co.il/?s=threejs
