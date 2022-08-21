@@ -1,0 +1,18 @@
+משחקים:
+http://hexgl.bkcore.com/play/
+https://codepen.io/Yakudoo/pen/yNjRRL
+
+מדריך ליצירת משחק בthreejs בעברית 
+https://codcodile.co.il/?s=threejs
+
+המדריכים באתר של threejs
+https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene
+
+מדריך באנגלית
+https://gorrion.io/blog/three-js-series-basic-tutorial-of-three-js/
+
+דוגמאות לכל הפיצרים:
+http://www.smartjava.org/content/all-learning-three-js-third-edition-examples-online/
+http://stemkoski.github.io/Three.js/
+
+You may not share your account login credentials with anyone else. You are responsible for what happens with your account and Udemy will not intervene in disputes between students or instructors who have shared account login credentials.
